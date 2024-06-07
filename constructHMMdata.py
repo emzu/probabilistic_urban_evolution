@@ -1,3 +1,5 @@
+import geopandas as gpd
+
 def gtbin_construct(id, dates):
   #Returns arrays of n cells by num. years
 
