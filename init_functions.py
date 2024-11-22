@@ -7,10 +7,8 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import plotly.express as px
 import plotly.graph_objects as go
-!pip install hmmlearn
 from hmmlearn import hmm
 
-!pip install scikit-gstat
 import skgstat as skg
 from skgstat import Variogram
 
