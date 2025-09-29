@@ -1,2 +1,2 @@
 # probabilistic-urban-evolution
-Code library to process high-resolution satellite imagery with lightweight Hidden Markov Models to produce decades long building footprint datasets in data-scarce cities
+Code library to process high-resolution building footprint models with local satellite imagery using Hidden Markov Models to produce multi-temporal building footprint datasets in data-scarce cities.
